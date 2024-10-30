@@ -1,0 +1,15 @@
+#mrc_iframe {
+	height: 285px;	
+}
+
+#mrc_iframe .ui-datepicker {
+	display: none !important;
+}
+
+img#mrc_logo {
+    width: 145px;
+}
+
+iframe #ui-datepicker-div {
+	top: 0px !important;
+}
